@@ -44,7 +44,3 @@ The `docker-compose` is configured for [mutinynet signet](https://blog.mutinywal
 - FM_BITCOIN_RPC_URL=...
 - FM_BITCOIN_NETWORK=...
 ```
-
-
-
-# fedimint
